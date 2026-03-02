@@ -52,6 +52,6 @@ Car.brand = "Toyota"
         console.log("Car is driving")
     }
 
+console.log(Car.brand)
 Car.stat();
 Car.drive();
-console.log(Car.brand)
