@@ -50,7 +50,7 @@ class Manager extends Employee {
     }
 
     details() {
-        console.log(`Salary: ${this.salary}`);
+        console.log(`Salary is ${this.salary}`);
     }
 }
 
